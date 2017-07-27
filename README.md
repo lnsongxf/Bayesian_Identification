@@ -1,2 +1,3 @@
-# Bayesian_Identification
-Bayesian Identification Repository
+# Байесовская идентификация структурных векторных авторегрессий
+
+В данном репозитории собраны MATLAB скрипты для Байесовской идентификации SVAR-моделей.
